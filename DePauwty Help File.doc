@@ -1,0 +1,34 @@
+Surviving DePauwty - Text Adventure Game
+
+
+Objective of the game:
+Get your player to their first fraternity party on Campus! Pick up items to take with you throughout the game. Try to get to the party in the smallest number of moves. Good luck!
+
+
+List of Possible Commands:
+look or l - Tells your location and the items in the location
+examine name - Prints out a description of the item with the given name you want to examine
+take name - Take item with given name from location and add it to your inventory
+put name - Put item with given name in your current location (taken from inventory)
+take name from container - Take item with given name from given container
+put name in container - Put item with given name in given container
+inventory or i - Lists all of the items in your inventory
+north or n - Moves player north
+east or e - Moves player east
+south or s - Moves player south
+west or w - Moves player west
+help or h - Opens this text file
+quit or q - Quits the game
+
+
+Please return to the console in Eclipse to begin your adventure. Keep in mind of this text file when working through the game. Have fun!
+
+
+
+Authors:
+Michael Davidson
+Cody Watson
+Kevin Yean 
+
+
+
